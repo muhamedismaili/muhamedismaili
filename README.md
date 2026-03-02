@@ -1,7 +1,7 @@
 # Hi, I'm Muhamed Ismaili 👋
 
 Computer Science student specializing in full-stack web development (React, Node.js, MySQL).  
-Building scalable, production-oriented applications with clean architecture and strong problem-solving fundamentals.
+Focused on building scalable, production-oriented applications with clean architecture and strong problem-solving fundamentals.
 
 📍 North Macedonia  
 🎓 Computer Science & Engineering – UIST Ohrid  
@@ -12,15 +12,15 @@ Building scalable, production-oriented applications with clean architecture and 
 
 ## 🚀 About Me
 
-I am a motivated Computer Science student with practical experience in building full-stack web applications.
+I am a motivated Computer Science student with hands-on experience in developing full-stack web applications.
 
-My focus areas include:
+My technical focus includes:
 
-- Clean and modular architecture  
-- Scalable backend systems  
+- Modular and scalable architecture  
+- Backend system design  
 - Authentication & authorization workflows  
-- RESTful API design  
-- Writing maintainable and structured code  
+- RESTful API development  
+- Writing maintainable, structured, and readable code  
 
 I am open to international internship opportunities in full-stack or software engineering roles.
 
@@ -29,32 +29,39 @@ I am open to international internship opportunities in full-stack or software en
 ## 🛠 Technical Skills
 
 ### Frontend
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- React Router
-- Context API
-- Responsive Design
+- React  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- React Router  
+- Context API  
+- Responsive Design  
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Cookie-based session handling
+- Node.js  
+- Express.js  
+- REST APIs  
+- JWT Authentication  
+- Middleware & Route Protection  
+- Cookie-based session handling  
 
 ### Database
-- MySQL
-- SQL Joins
-- Relational Database Design
+- MySQL  
+- SQL Joins  
+- Relational Database Design  
 
 ### Tools & Technologies
-- Git & GitHub
-- Firebase
-- Vite
-- MySQL Workbench
-- VS Code
+- Git & GitHub  
+- Firebase  
+- Vite  
+- MySQL Workbench  
+- VS Code  
+
+---
+
+## 📌 Highlighted Projects
+
+The repositories below showcase frontend architecture, full-stack backend integration, and core web development fundamentals.
 
 ---
 
@@ -66,11 +73,11 @@ I am open to international internship opportunities in full-stack or software en
 Modern food ordering web application built with React and Firebase.
 
 **Highlights:**
-- Component-based architecture  
+- Component-based frontend architecture  
 - Dynamic cart state management  
 - Authentication flow integration  
 - Checkout logic with real-time total calculation  
-- Responsive UI  
+- Responsive UI design  
 - Production deployment with Vercel  
 
 ---
@@ -100,19 +107,19 @@ A responsive personal portfolio website built without frameworks.
 
 **Highlights:**
 - Semantic HTML structure  
-- Responsive layout with CSS  
-- Interactive UI using vanilla JavaScript  
+- Responsive layout using CSS  
+- Interactive UI with vanilla JavaScript  
 - DOM manipulation and event handling  
-- Clean visual presentation of projects and skills  
+- Clean presentation of projects and technical skills  
 
-Demonstrates strong understanding of core web fundamentals without relying on frontend frameworks.
+Demonstrates strong understanding of core web fundamentals.
 
 ---
 
 ## 📈 What I Focus On
 
 - Writing clean and maintainable code  
-- Understanding full frontend–backend communication  
+- Understanding frontend–backend communication  
 - Implementing secure authentication systems  
 - Structuring scalable application logic  
 - Continuous technical improvement  
