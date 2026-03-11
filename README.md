@@ -1,6 +1,6 @@
 # Hi, I'm Muhamed Ismaili 👋
 
-Computer Science student specializing in full-stack web development (React, Node.js, MySQL).  
+Computer Science & Engineering student focused on full-stack web development (React, Node.js, MySQL).  
 Focused on building scalable, production-oriented applications with clean architecture and strong problem-solving fundamentals.
 
 📍 North Macedonia  
