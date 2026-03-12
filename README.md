@@ -1,7 +1,8 @@
 # Hi, I'm Muhamed Ismaili 👋
 
-Computer Science & Engineering student focused on full-stack web development (React, Node.js, MySQL).  
-Focused on building scalable, production-oriented applications with clean architecture and strong problem-solving fundamentals.
+Computer Science & Engineering student focused on **full-stack web development** using modern technologies such as **React, Next.js, Node.js, and MySQL**.
+
+I enjoy building **scalable web applications**, designing clean architectures, and developing production-oriented software solutions.
 
 📍 North Macedonia  
 🎓 Computer Science & Engineering – UIST Ohrid  
@@ -10,125 +11,119 @@ Focused on building scalable, production-oriented applications with clean archit
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a motivated Computer Science student with hands-on experience in developing full-stack web applications.
+I am a motivated Computer Science student with hands-on experience building **full-stack web applications**.
 
-My technical focus includes:
+My main focus areas include:
 
-- Modular and scalable architecture  
+- Scalable application architecture  
 - Backend system design  
-- Authentication & authorization workflows  
+- Authentication and authorization systems  
 - RESTful API development  
-- Writing maintainable, structured, and readable code  
+- Writing clean, maintainable, and structured code  
 
-I am open to international internship opportunities in full-stack or software engineering roles.
+I am currently **open to international internship opportunities** in **full-stack or software engineering roles**.
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Technical Skills
 
 ### Frontend
-- React  
-- JavaScript (ES6+)  
-- HTML5  
-- CSS3  
-- React Router  
-- Context API  
-- Responsive Design  
+- React
+- Next.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Router
+- Context API
+- Responsive Design
 
 ### Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- JWT Authentication  
-- Middleware & Route Protection  
-- Cookie-based session handling  
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Middleware & Route Protection
+- Cookie-based session handling
 
 ### Database
-- MySQL  
-- SQL Joins  
-- Relational Database Design  
+- MySQL
+- SQL Joins
+- Relational Database Design
 
 ### Tools & Technologies
-- Git & GitHub  
-- Firebase  
-- Vite  
-- MySQL Workbench  
-- VS Code  
+- Git & GitHub
+- Firebase
+- Vite
+- MySQL Workbench
+- VS Code
 
 ---
 
-## 📌 Highlighted Projects
-
-The repositories below showcase frontend architecture, full-stack backend integration, and core web development fundamentals.
-
----
-
-## 💼 Featured Projects
+# 💼 Featured Projects
 
 ### 🍅 Tomato – Food Delivery Web Application  
 🔗 https://github.com/muhamedismaili/TomatoFoodApp  
 
-Modern food ordering web application built with React and Firebase.
+Modern food ordering web application built with **React and Firebase**.
 
 **Highlights:**
+
 - Component-based frontend architecture  
 - Dynamic cart state management  
-- Authentication flow integration  
-- Checkout logic with real-time total calculation  
+- User authentication system  
+- Checkout logic with real-time price calculation  
 - Responsive UI design  
 - Production deployment with Vercel  
 
 ---
 
 ### 📝 Full-Stack Blog Platform  
-(React + Express + MySQL + JWT)
+React + Express + MySQL + JWT  
 
-Full-stack blog application with secure authentication and protected routes.
+Full-stack blogging platform with authentication and protected routes.
 
 **Highlights:**
-- RESTful API built with Express  
-- Controllers and route separation  
-- JWT authentication & authorization  
-- Middleware-based route protection  
-- MySQL relational database integration  
-- SQL JOIN operations  
-- Cookie-based session handling  
 
-Demonstrates backend architecture understanding and full-stack integration.
+- RESTful API built with Express
+- Backend controller and route structure
+- JWT authentication and authorization
+- Middleware-based route protection
+- MySQL relational database integration
+- SQL JOIN queries
+- CRUD operations for blog posts
+- Deployed frontend and backend services
 
 ---
 
 ### 🌐 Personal Portfolio Website  
-(HTML, CSS, JavaScript)
+Next.js + Tailwind CSS  
 
-A responsive personal portfolio website built without frameworks.
+Interactive developer portfolio showcasing projects, skills, and experience.
 
 **Highlights:**
-- Semantic HTML structure  
-- Responsive layout using CSS  
-- Interactive UI with vanilla JavaScript  
-- DOM manipulation and event handling  
-- Clean presentation of projects and technical skills  
 
-Demonstrates strong understanding of core web fundamentals.
-
----
-
-## 📈 What I Focus On
-
-- Writing clean and maintainable code  
-- Understanding frontend–backend communication  
-- Implementing secure authentication systems  
-- Structuring scalable application logic  
-- Continuous technical improvement  
+- Built with Next.js and React
+- Responsive layout using Tailwind CSS
+- Smooth UI animations with Framer Motion
+- Interactive project showcase
+- Contact form integration
+- Production deployment with Vercel
 
 ---
 
-## 📫 Contact
+# 📈 What I Focus On
+
+- Writing clean and maintainable code
+- Designing scalable application architectures
+- Building secure authentication systems
+- Understanding frontend–backend communication
+- Continuous learning and technical improvement
+
+---
+
+# 📫 Contact
 
 📧 muhamed.is2020@gmail.com  
 🔗 https://www.linkedin.com/in/muhamed-ismaili-4bb8343a9/
-
----
