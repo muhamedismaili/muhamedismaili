@@ -7,7 +7,8 @@ I enjoy building **scalable web applications**, designing clean architectures, a
 📍 North Macedonia  
 🎓 Computer Science & Engineering – UIST Ohrid  
 📧 muhamed.is2020@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/muhamed-ismaili-4bb8343a9/
+🔗 LinkedIn: https://www.linkedin.com/in/muhamed-ismaili-4bb8343a9/  
+🌐 Portfolio: https://portfolio-chi-seven-80.vercel.app  
 
 ---
 
@@ -63,67 +64,86 @@ I am currently **open to international internship opportunities** in **full-stac
 
 # 💼 Featured Projects
 
-### 🍅 Tomato – Food Delivery Web Application  
-🔗 https://github.com/muhamedismaili/TomatoFoodApp  
+## 📝 Full-Stack Blog Platform
+**React + Express + MySQL + JWT**
+
+🔗 Repository:  
+https://github.com/muhamedismaili/Blog-Application  
+
+🔗 Live Demo:  
+https://blog-application-psi-seven.vercel.app  
+
+Full-stack blogging platform with authentication and protected routes.
+
+**Highlights**
+
+- RESTful API built with Express  
+- Backend controller and route architecture  
+- JWT authentication and authorization  
+- Middleware-based route protection  
+- MySQL relational database integration  
+- SQL JOIN queries  
+- CRUD operations for blog posts  
+- Deployed frontend and backend services  
+
+---
+
+## 🍅 Tomato – Food Delivery Web Application
+**React + Firebase**
+
+🔗 Repository:  
+https://github.com/muhamedismaili/TomatoFoodApp  
+
+🔗 Live Demo:  
+https://tomato-food-app-alpha.vercel.app  
 
 Modern food ordering web application built with **React and Firebase**.
 
-**Highlights:**
+**Highlights**
 
 - Component-based frontend architecture  
 - Dynamic cart state management  
-- User authentication system  
+- Firebase authentication system  
 - Checkout logic with real-time price calculation  
+- Category-based product filtering  
 - Responsive UI design  
 - Production deployment with Vercel  
 
 ---
 
-### 📝 Full-Stack Blog Platform  
-React + Express + MySQL + JWT  
+## 🌐 Personal Portfolio Website
+**Next.js + Tailwind CSS**
 
-Full-stack blogging platform with authentication and protected routes.
+🔗 Repository:  
+https://github.com/muhamedismaili/Portfolio  
 
-**Highlights:**
-
-- RESTful API built with Express
-- Backend controller and route structure
-- JWT authentication and authorization
-- Middleware-based route protection
-- MySQL relational database integration
-- SQL JOIN queries
-- CRUD operations for blog posts
-- Deployed frontend and backend services
-
----
-
-### 🌐 Personal Portfolio Website  
-Next.js + Tailwind CSS  
+🔗 Live Demo:  
+https://portfolio-chi-seven-80.vercel.app  
 
 Interactive developer portfolio showcasing projects, skills, and experience.
 
-**Highlights:**
+**Highlights**
 
-- Built with Next.js and React
-- Responsive layout using Tailwind CSS
-- Smooth UI animations with Framer Motion
-- Interactive project showcase
-- Contact form integration
-- Production deployment with Vercel
+- Built with Next.js and React  
+- Responsive layout using Tailwind CSS  
+- Smooth UI animations with Framer Motion  
+- Interactive project showcase  
+- Contact form integration  
+- Production deployment with Vercel  
 
 ---
 
 # 📈 What I Focus On
 
-- Writing clean and maintainable code
-- Designing scalable application architectures
-- Building secure authentication systems
-- Understanding frontend–backend communication
-- Continuous learning and technical improvement
+- Writing clean and maintainable code  
+- Designing scalable application architectures  
+- Building secure authentication systems  
+- Understanding frontend–backend communication  
+- Continuous learning and technical improvement  
 
 ---
 
 # 📫 Contact
 
 📧 muhamed.is2020@gmail.com  
-🔗 https://www.linkedin.com/in/muhamed-ismaili-4bb8343a9/
+🔗 LinkedIn: https://www.linkedin.com/in/muhamed-ismaili-4bb8343a9/
